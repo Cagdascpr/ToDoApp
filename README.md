@@ -1,4 +1,4 @@
-# Görev Yönetim Sistemi (TODOAPP9
+# Görev Yönetim Sistemi (TODOAPP)
 
 ## Projenin Amacı
 Bu proje; kullanıcıların günlük görevlerini (task) oluşturmasını, listelemesini, silmesini, durum ve öncelik kriterlerine göre filtrelemesini sağlayan, Java dilinin temel ve ileri düzey yetenekleri kullanılarak geliştirilmiş bir konsol otomasyonudur.
